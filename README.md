@@ -16,10 +16,10 @@ The use cases are implemented as Jupyter Notebooks located in the `/python` dire
 
 ### Available Use Cases
 
-* **Notebook 1:** `CEDAR_API_I.ipynb` - Demonstrates how to retrieve all publication references for a specific antigen (e.g., Prostate-specific antigen).
-* **Notebook 2:** `CEDAR_API_II.ipynb` - Shows how to investigate the experimental evidence for the immunogenicity of a specific neoepitope (e.g., "SYLDSGIHF").
-* **Notebook 3:** `CEDAR_API_III.ipynb` - Provides a method to find viral antigens and epitopes associated with a specific cancer type (e.g., head and neck cancer).
-* **Notebook 4:** `CEDAR_API_IV.ipynb` - Explains how to identify neoantigens that have been used in therapeutic cancer vaccines for human patients.
+* `CEDAR_API_I.ipynb` - Demonstrates how to retrieve all publication references for a specific antigen (e.g., Prostate-specific antigen).
+* `CEDAR_API_II.ipynb` - Shows how to investigate the experimental evidence for the immunogenicity of a specific neoepitope (e.g., "SYLDSGIHF").
+* `CEDAR_API_III.ipynb` - Provides a method to find viral antigens and epitopes associated with a specific cancer type (e.g., head and neck cancer).
+* `CEDAR_API_IV.ipynb` - Explains how to identify neoantigens that have been used in therapeutic cancer vaccines for human patients.
 
 ---
 
