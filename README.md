@@ -3,8 +3,8 @@
 This repository provides practical use cases and resources for the [Cancer Epitope Database and Analysis Resource (CEDAR)](https://cedar.iedb.org) Query API. It includes Python Notebooks and Entity-Relationship Diagrams (ERDs) designed to help users programatically perform novel and complex queries.
 
 This information is complementary to the official documentation:
-* **Discussion & Articles:** [CEDAR API Documentation](https://discuss.iedb.org/t/application-programming-interface-api/220)
-* **Interactive Endpoints:** [Swagger UI](https://cedar-api.iedb.org/docs/swagger/)
+* [CEDAR API Documentation](https://discuss.iedb.org/t/application-programming-interface-api/220)
+* [Swagger UI](https://cedar-api.iedb.org/docs/swagger/)
 
 ---
 
